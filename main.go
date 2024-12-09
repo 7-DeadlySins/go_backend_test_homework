@@ -1,5 +1,6 @@
 package main
 
+// импорт стандартного пакета
 import (
 	"fmt"
 )
